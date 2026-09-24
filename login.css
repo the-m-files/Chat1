@@ -55,7 +55,7 @@
     text-align: left;
 }
 
-guidelines h3 {
+ .guidelines h3 {
     background-color: #000000;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
@@ -66,20 +66,20 @@ guidelines h3 {
     letter-spacing: 1px;
 }
 
-guidelines p {
+ .guidelines p {
     font-size: 14px;
     font-weight: bold;
     margin-bottom: 12px;
     text-decoration: underline;
 }
 
-guidelines ul {
+ .guidelines ul {
     margin: 0;
     padding-left: 20px;
     list-style-type: square;
 }
 
-guidelines li {
+ .guidelines li {
     font-size: 13px;
     line-height: 1.6;
     margin-bottom: 8px;
